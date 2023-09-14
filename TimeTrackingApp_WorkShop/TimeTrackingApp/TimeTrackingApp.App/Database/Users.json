@@ -1,0 +1,42 @@
+[
+  {
+    "FirstName": "Admin",
+    "LastName": "Adminovski",
+    "Age": 25,
+    "Username": "admin123",
+    "Password": "123456",
+    "Id": 1
+  },
+  {
+    "FirstName": "admins",
+    "LastName": "adminskis",
+    "Age": 25,
+    "Username": "admin234",
+    "Password": "123456",
+    "Id": 2
+  },
+  {
+    "FirstName": "stevo",
+    "LastName": "stevovski",
+    "Age": 20,
+    "Username": "stevce",
+    "Password": "Stefce123",
+    "Id": 3
+  },
+  {
+    "FirstName": "Ace",
+    "LastName": "Dojcinov",
+    "Age": 23,
+    "Username": "AceMKD",
+    "Password": "AceMKD1",
+    "Id": 4
+  },
+  {
+    "FirstName": "Ace",
+    "LastName": "Stamenkovski",
+    "Age": 23,
+    "Username": "aleksandar",
+    "Password": "Ace123",
+    "Id": 5
+  }
+]
